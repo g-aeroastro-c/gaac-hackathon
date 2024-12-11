@@ -59,7 +59,7 @@ Follow these steps to get started and ensure you’re ready for the hackathon:
 
 ## 📄 Rules & Guidelines
 
-- Follow the [Hackathon Code of Conduct](#) to ensure a positive and respectful experience for all participants.
+- Follow the [Hackathon Code of Conduct](https://github.com/g-aeroastro-c/gaac-hackathon?tab=coc-ov-file#code-of-conduct-for-gaac-hackathon-2024-) to ensure a positive and respectful experience for all participants.
 - Only one submission per team is allowed.
 - Be sure to submit your project by the final deadline to be eligible for prizes and recognition.
 
